@@ -18,7 +18,7 @@ Repositori ini berisi hasil pengerjaan tugas slicing website portfolio pribadi. 
 
 ## 🔗 Link Deployment
 Website ini sudah di-deploy dan dapat diakses secara *live* pada tautan berikut:
-[HAPUS TEKS INI DAN TEMPEL LINK GITHUB PAGES / VERCEL KAMU DI SINI]
+(https://dewalega-design.github.io/percobaan-tugas/)
 
 ## 📸 Screenshot Tampilan
 <img width="949" height="530" alt="image" src="https://github.com/user-attachments/assets/ebaa29da-ed8c-400a-a50f-5aaf62212858" />
